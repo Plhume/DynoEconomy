@@ -1,0 +1,6 @@
+name: DynoEconomy
+version: '1.0-SNAPSHOT'
+main: fr.plhume.dynoEconomy.DynoEconomy
+api-version: '1.21'
+authors: [ Plhume ]
+description: DynoEconomy is a full economy support.
